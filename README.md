@@ -3,8 +3,7 @@
 
 🎓 Rising junior studying Finance & Data Science @ Northeastern University  
 🌎 Born and raised in Hong Kong | Currently in Boston, MA  
-📈 Passionate about portfolio analytics, fintech, and healthcare technology  
-💡 I love tackling complex problems with data-driven solutions
+💡 Passionate about portfolio analytics, fintech, and healthcare technology  
 
 ## 🔗 Connect with me
 - [sohnerika04@gmail.com](mailto:sohnerika04@gmail.com)
