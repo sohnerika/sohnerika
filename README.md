@@ -9,4 +9,4 @@
 - [sohnerika04@gmail.com](mailto:sohnerika04@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/erika-sohn-770212281)
 
-Thanks for visiting my GitHub profile! ✨
+Thanks for visiting my GitHub profile! 🧚
