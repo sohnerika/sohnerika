@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Erika Sohn!
 ![Erika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohnerika&show_icons=true&theme=default)
 
-🎓 Junior studying Finance & Data Science @ Northeastern University  
+🎓 Senior dual-majoring in Finance & Data Science @ Northeastern University  
 🌎 Born and raised in Hong Kong | Currently in Boston, MA  
-💡 Passionate about portfolio analytics, fintech, and healthcare technology  
+💡 Passionate about quantitative analytics, private markets, and healthcare technology  
 
 ## Fav projects
 
