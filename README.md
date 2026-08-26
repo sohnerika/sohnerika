@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Erika Sohn!
-![Erika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohnerika&show_icons=true&theme=default)
+![Click to see my Git stats](https://github-readme-stats.vercel.app/api?username=sohnerika&show_icons=true&theme=default)
 
 🎓 Senior dual-majoring in Finance & Data Science @ Northeastern University  
 🌎 Born and raised in Hong Kong | Currently in Boston, MA  
