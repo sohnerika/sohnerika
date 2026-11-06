@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Erika Sohn!
 
-🎓 Senior dual-majoring in Finance & Data Science @ Northeastern University  
+🚀 Senior dual-majoring in Data Science & Finance @ Northeastern University  
 🌎 Born and raised in Hong Kong | Currently based in Boston  
 💡 Passionate about deep learning, finance, and neuroscience  
 
