@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Erika Sohn!
+# Hi there, I'm Erika Sohn!
 
 🚀 Senior dual-majoring in Data Science & Finance @ Northeastern University  
 🌎 Born and raised in Hong Kong | Currently based in Boston  
