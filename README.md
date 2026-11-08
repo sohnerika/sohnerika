@@ -9,7 +9,7 @@
 ## things i'm currently working on
 - **computational linguistics w/ khoury college**: exploring caregiver adoption of generative ai using llms and text analysis
 
-- **credit markets w/ northeastern systematic alpha**: using fixed income etf implied volatility and skewness as a forward-looking measure of credit risk, and testing for spillover effects into the underlying corporate bond market
+- **options-implied credit risk w/ northeastern systematic alpha**: using implied volatility and skew from fixed income etf options as a forward-looking signal of credit risk, and testing for spillover into corporate bonds
 
 - **neuroimaging**: applying bayesian inference and CNN-based encoding models to BOLD5000 fMRI data to decode viewed images from brain activity and test whether CNN layer hierarchies mirror the visual cortex
 
