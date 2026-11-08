@@ -1,5 +1,9 @@
 # hi there, i'm erika!
 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+</p>
+
 🚀 senior dual-majoring in data science x finance @ northeastern
 
 🌎 born and raised in hong kong | currently based in boston  
