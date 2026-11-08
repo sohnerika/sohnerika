@@ -1,4 +1,4 @@
-# hi there, I'm erika!
+# hi there, i'm erika!
 
 🚀 senior dual-majoring in data science x finance @ northeastern
 
