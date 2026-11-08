@@ -10,7 +10,7 @@
 💡 i use data science to explore our world, whether that be in financial markets, neuroscience, or computational linguistics
 
 ## things i'm currently working on
-- **computational linguistics w/ neu khoury college**: exploring caregiver adoption of generative ai using llms and text analysis
+- **computational linguistics w/ khoury college**: exploring caregiver adoption of generative ai using llms and text analysis
 
 - **options-implied credit risk w/ neu systematic alpha**: using implied volatility and skew from fixed income etf options as a forward-looking signal of credit risk, and testing for spillover into corporate bonds
 
