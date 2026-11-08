@@ -5,9 +5,9 @@
 
 🚀 senior dual-majoring in data science x finance @ northeastern
 
-🌎 born and raised in hong kong | currently based in boston  
+📍 born and raised in hong kong | currently based in boston  
 
-💡 i use data science to explore our world, whether that be in financial markets, neuroscience, or computational linguistics
+🌎 i use data science to explore our world, whether that be in financial markets, neuroscience, or computational linguistics
 
 ## things i'm currently working on
 - **computational linguistics w/ khoury college**: exploring caregiver adoption of generative ai using llms and text analysis
