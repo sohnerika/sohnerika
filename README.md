@@ -7,7 +7,7 @@
 
 🌎 born and raised in hong kong | currently based in boston  
 
-🔬 i use data science to understand the world around me, whether through financial markets, neuroscience, or computational linguistics
+🔬 i code to understand the world around me, whether through financial markets, neuroscience, or computational linguistics
 
 ## things i'm currently working on
 
