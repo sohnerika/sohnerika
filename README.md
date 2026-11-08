@@ -11,6 +11,6 @@
 
 - **options-implied credit risk w/ nu systematic alpha**: using implied volatility and skew from fixed income etf options as a forward-looking signal of credit risk, and testing for spillover into corporate bonds
 
-- **neuroimaging**: applying bayesian inference and CNN-based encoding models to BOLD5000 fMRI data to decode viewed images from brain activity and test whether CNN layer hierarchies mirror the visual cortex
+- **neuroimaging**: applying bayesian inference and cnn-based encoding models to BOLD5000 fMRI data to decode viewed images from brain activity and test whether cnn layer hierarchies mirror the visual cortex
 
 thanks for visiting my github profile!
