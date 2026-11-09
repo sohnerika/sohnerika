@@ -7,7 +7,7 @@
 
 🌎 born and raised in hong kong | currently based in boston  
 
-🔬 i code to understand the world around me, whether through financial markets, neuroscience, or fashion
+🔬 i code to understand the world around me, whether through financial markets, neuroscience, or nature
 
 ## things i'm currently working on
 
