@@ -15,4 +15,4 @@
 
 - **neuroimaging**: applying bayesian inference and cnn-based encoding models to BOLD5000 fMRI data to decode viewed images from brain activity and test whether cnn layer hierarchies mirror the visual cortex
 
-- **hiking before dark:** estimating the odds of finishing hikes before dark and finding the fastest way back to civilization
+- **hiking before dark:** using monte carlo simulations to estimate the odds of finishing hong kong hikes before sunset, and dijkstra’s algorithm to find the fastest way back to civilization
