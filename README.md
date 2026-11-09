@@ -15,4 +15,4 @@
 
 - **neuroimaging**: applying bayesian inference and cnn-based encoding models to BOLD5000 fMRI data to decode viewed images from brain activity and test whether cnn layer hierarchies mirror the visual cortex
 
-- **computer vision**: teaching a model to spot counterfeit birkins from close-up photos of stamps and stitching
+- **computer vision in luxury authentication**: teaching a model to spot counterfeit birkins from close-up photos of stamps and stitching
