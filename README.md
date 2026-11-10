@@ -1,6 +1,6 @@
 ## hi there, i'm erika!
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6E8EF7&center=true&vCenter=true&width=500&lines=welcome+to+my+github+%3AD;data+science+x+finance+%40+northeastern;markets+%E2%80%A2+neuroscience+%E2%80%A2+computational linguistics" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6E8EF7&center=true&vCenter=true&width=650&lines=welcome+to+my+github+%3AD;data+science+x+finance+%40+northeastern;markets+%E2%80%A2+neuroscience+%E2%80%A2+computational+linguistics" alt="typing animation" />
 </p>
 
 🚀 senior dual-majoring in data science x finance @ northeastern
@@ -15,4 +15,4 @@
 
 - **neuroimaging**: applying bayesian inference and cnn-based encoding models to BOLD5000 fMRI data to decode viewed images from brain activity and test whether cnn layer hierarchies mirror the visual cortex
 
-- **computational linguistics:** conducting transformer-based nlp research w/ khoury college on detecting caregiver burden in reddit posts
+- **computational linguistics w/ khoury college:** fine-tuning transformers to identify and classify caregiver burden in Reddit posts by caregivers of individuals with neurodegenerative diseases
