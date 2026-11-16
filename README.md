@@ -15,7 +15,7 @@
 
 ## things i'm currently working on
 
-- **implied credit risk**: using implied volatility and skew from fixed-income etf options as a forward-looking signal of credit risk, and testing for spillover into corporate bonds
+- **credit risk**: using implied volatility and skew from fixed-income etf options as a forward-looking signal of credit risk, and testing for spillover into corporate bonds
 
 - **neuroimaging**: applying bayesian inference and cnn-based encoding models to BOLD5000 fMRI data to decode viewed images from brain activity and test whether cnn layer hierarchies mirror the visual cortex
 
