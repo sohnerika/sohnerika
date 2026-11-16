@@ -1,13 +1,13 @@
 ## hi there, i'm erika!
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6E8EF7&center=true&vCenter=true&width=650&lines=welcome+to+my+github+%3AD;data+science+x+finance+%40+northeastern;markets+%E2%80%A2+neuroscience+%E2%80%A2+HCI" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6E8EF7&center=true&vCenter=true&width=650&lines=welcome+to+my+github+%3AD;data+science+x+finance+%40+northeastern;markets+%E2%80%A2+natural language processing+%E2%80%A2+HCI" alt="typing animation" />
 </p>
 
 🚀 senior dual-majoring in data science x finance @ northeastern
 
 🌎 born and raised in hong kong | currently based in boston  
 
-🔬 i build models to understand the world around me, whether through financial markets, neuroscience, or HCI
+🔬 i build models to understand the world around me, whether through financial markets, natural language processing, or HCI
 
 ## things i'm currently working on
 
