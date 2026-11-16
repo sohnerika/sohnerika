@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=6E8EF7&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=welcome+to+my+github+%3AD;data+science+x+finance+%40+northeastern;markets+%E2%80%A2+NLP+%E2%80%A2+HCI"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=6E8EF7&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=welcome+to+my+github+%3AD;data+science+x+finance+%40+northeastern;markets+%E2%80%A2+computational+linguistics+%E2%80%A2+HCI"
     alt="Typing SVG"
   />
 </p>
@@ -11,7 +11,7 @@
 
 🌎 born and raised in hong kong | currently based in boston  
 
-🔬 i build models to understand the world around me, whether through financial markets, NLP, or HCI
+🔬 i build models to understand the world around me, whether through financial markets, computational linguistics, or HCI
 
 ## things i'm currently working on
 
