@@ -1,6 +1,10 @@
 ## hi there, i'm erika!
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6E8EF7&center=true&vCenter=true&width=650&lines=welcome+to+my+github+%3AD;data+science+x+finance+%40+northeastern;markets+%E2%80%A2+natural language processing+%E2%80%A2+HCI" alt="typing animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=6E8EF7&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=welcome+to+my+github+%3AD;data+science+x+finance+%40+northeastern;markets+%E2%80%A2+natural+language+processing+%E2%80%A2+HCI"
+    alt="Typing SVG"
+  />
 </p>
 
 🚀 senior dual-majoring in data science x finance @ northeastern
