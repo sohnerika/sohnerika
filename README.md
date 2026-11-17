@@ -19,4 +19,4 @@
 
 - **neuroimaging**: applying bayesian inference and cnn-based encoding models to BOLD5000 fMRI data to decode viewed images from brain activity and test whether cnn layer hierarchies mirror the visual cortex
 
-- **emotion-aware interfaces w/ khoury college:** fine-tuning transformers to identify and classify caregiver burden in Reddit posts by caregivers of individuals with neurodegenerative diseases
+- **emotion-aware interfaces w/ khoury college:** fine-tuning transformer-based language models to detect and classify emotional burden expressed by caregivers of individuals with neurodegenerative diseases on Reddit
